@@ -16,6 +16,7 @@ export default defineUserConfig({
                 children: [
                     'introduction',
                     'markdown',
+                    'typeScript',
                     'networkRequestLibrary',
                     'vue',
                     'SSG',
@@ -40,6 +41,10 @@ export default defineUserConfig({
                 {
                     text: 'Markdown',
                     link: 'markdown'
+                },
+                {
+                    text: 'TypeScript',
+                    link: 'typescript'
                 },
                 {
                     text: '网络请求库',
