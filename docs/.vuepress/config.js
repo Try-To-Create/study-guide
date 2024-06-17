@@ -44,7 +44,7 @@ export default defineUserConfig({
                 },
                 {
                     text: 'TypeScript',
-                    link: 'typescript'
+                    link: 'typeScript'
                 },
                 {
                     text: '网络请求库',
