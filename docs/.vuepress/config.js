@@ -20,6 +20,7 @@ export default defineUserConfig({
                     'networkRequestLibrary',
                     'vue',
                     'SSG',
+                    'packageManager',
                     'bundler'
                 ]
             },
@@ -57,6 +58,10 @@ export default defineUserConfig({
                 {
                     text: '静态网站生成器',
                     link: 'SSG'
+                },
+                {
+                    text: '包管理工具',
+                    link: 'packageManager'
                 },
                 {
                     text: '模块打包工具',

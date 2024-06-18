@@ -29,6 +29,10 @@ then
     # 初始化新的git仓库
     git init
 fi
+
+# 构建文档
+npm run "$command"
+
 # 添加修改到暂存区
 git add .
 # 提交更新
@@ -36,8 +40,6 @@ git commit -m "$m"
 # 更新到远程仓库main分支
 git push -u "$origin" master:main
 
-# 构建文档
-npm run "$command"
 # 进入构建生成地址
 cd "$dest"
 
