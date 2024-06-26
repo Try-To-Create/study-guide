@@ -4,6 +4,20 @@ date: 2024-06-18
 
 # 包管理工具
 
+## npm
+
+[点击前往 npm 官网][npm]
+
+### 简介
+
+npm 是全球最大的软件注册机构。
+
+来自各大洲的开源开发人员都习惯于 npm 共享和借用软件包，许多组织也习惯于 npm 管理私有开发。
+
+### 文档
+
+[npm 文档][npm 文档]
+
 ## pnpm
 
 [点击前往 pnpm 官网][pnpm]
@@ -17,6 +31,9 @@ pnpm 是一个快速、可靠且节省磁盘空间的包管理工具。
 ### 文档
 
 [pnpm 文档][pnpm 文档]
+
+[npm]: https://www.npmjs.com/
+[npm 文档]: https://docs.npmjs.com/
 
 [pnpm]: https://pnpm.io/zh/
 [pnpm 文档]: https://pnpm.io/zh/motivation
