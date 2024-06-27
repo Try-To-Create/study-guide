@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.14" />
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+
+      html.dark {
+        --c-bg: #22272e;
+      }
+
+      html,
+      body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme')
+      const systemDarkMode =
+        window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches
+      if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+        document.documentElement.classList.toggle('dark', true)
+      }
+    </script>
+    <link rel="icon" href="/guide.svg"><title>学习指南</title><meta name="description" content="一份 VuePress 构建的前端学习指南">
+    <link rel="preload" href="/assets/style-DPx3M0Ul.css" as="style"><link rel="stylesheet" href="/assets/style-DPx3M0Ul.css">
+    <link rel="modulepreload" href="/assets/app-IYNx8Hyl.js"><link rel="modulepreload" href="/assets/404.html-J1pUam2_.js">
+    <link rel="prefetch" href="/assets/index.html-BrzKQTQu.js" as="script"><link rel="prefetch" href="/assets/bundler.html-BnthhGs6.js" as="script"><link rel="prefetch" href="/assets/introduction.html-CISrAcC5.js" as="script"><link rel="prefetch" href="/assets/markdown.html-hHmBzf5L.js" as="script"><link rel="prefetch" href="/assets/networkRequestLibrary.html-B-IBUdC0.js" as="script"><link rel="prefetch" href="/assets/packageManager.html-Cy0_kXmN.js" as="script"><link rel="prefetch" href="/assets/SSG.html-D9bd_d2c.js" as="script"><link rel="prefetch" href="/assets/typescript.html-2jdaXUYS.js" as="script"><link rel="prefetch" href="/assets/vue.html-Dv5TVzEw.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a class="route-link" href="/">Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-IYNx8Hyl.js" defer></script>
+  </body>
+</html>
