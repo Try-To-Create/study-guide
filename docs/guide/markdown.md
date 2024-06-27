@@ -1,5 +1,5 @@
 ---
-date: 2024-06-13
+date: 2024-06-27
 ---
 
 # Markdown
@@ -8,7 +8,7 @@ date: 2024-06-13
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档， Markdown 文件的后缀名便是 “.md”。
 
-## Markdown 中文文档
+## 中文文档
 
 [Markdown 语法速查表][Markdown 语法速查表]
 
@@ -16,7 +16,7 @@ Markdown 是一种轻量级标记语言，它允许人们使用易读易写的�
 
 [Markdown 扩展语法][Markdown 扩展语法]
 
-## Markdown 英文文档
+## 英文文档
 
 [Markdown 语法速查表][Markdown cheat-sheet]
 
