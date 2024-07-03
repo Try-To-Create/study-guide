@@ -25,6 +25,14 @@ export default defineUserConfig({
                 ]
             },
             {
+                text: '工具',
+                prefix: '/tools/',
+                children: [
+                    'translator',
+                    'icons'
+                ]
+            },
+            {
                 text: 'Github',
                 link: 'https://github.com/Try-To-Create/study-guide'
             },
@@ -66,6 +74,16 @@ export default defineUserConfig({
                 {
                     text: '模块打包工具',
                     link: 'bundler'
+                }
+            ],
+            '/tools/': [
+                {
+                    text: '翻译器',
+                    link: 'translator'
+                },
+                {
+                    text: '图标工具',
+                    link: 'icons'
                 }
             ]
         }

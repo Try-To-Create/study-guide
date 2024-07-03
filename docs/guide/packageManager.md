@@ -26,6 +26,8 @@ npm 是全球最大的软件注册机构。
 
 [npm 组织文档][npm 组织文档]
 
+[npm CLI 文档][npm CLI 文档]
+
 ## pnpm
 
 [点击前往 pnpm 官网][pnpm]
@@ -46,6 +48,7 @@ pnpm 是一个快速、可靠且节省磁盘空间的包管理工具。
 [npm 包和模块文档]: https://docs.npmjs.com/packages-and-modules
 [npm 集成文档]: https://docs.npmjs.com/integrations
 [npm 组织文档]: https://docs.npmjs.com/organizations
+[npm CLI 文档]: https://docs.npmjs.com/cli/
 
 [pnpm]: https://pnpm.io/zh/
 [pnpm 文档]: https://pnpm.io/zh/motivation
