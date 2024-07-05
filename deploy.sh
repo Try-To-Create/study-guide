@@ -38,7 +38,7 @@ git add .
 # 提交更新
 git commit -m "$m"
 # 更新到远程仓库main分支
-git push -u "$origin" master:main
+git push "$origin" main
 
 # 进入构建生成地址
 cd "$dest"
@@ -56,4 +56,4 @@ git add .
 # 提交部署
 git commit -m "$deploy_m"
 # 强制更新到远程仓库gh-pages分支
-git push -f "$origin" master:gh-pages
+git push -f "$origin" main:gh-pages

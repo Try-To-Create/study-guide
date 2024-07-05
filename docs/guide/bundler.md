@@ -6,7 +6,7 @@ date: 2024-06-16
 
 ## Vite
 
-[点击前往 Vite 官网][Vite]
+<guide-link text="点击前往 Vite 官网" src="https://cn.vitejs.dev/" />
 
 ### 简介
 
@@ -36,7 +36,6 @@ Vite 还提供了强大的扩展性，可通过其插件 API 和 JavaScript API 
 
 ## webpack
 
-[Vite]: https://cn.vitejs.dev/
 [Vite 指南文档]: https://cn.vitejs.dev/guide/
 [Vite 配置文档]: https://cn.vitejs.dev/config/
 [Vite 插件文档]: https://cn.vitejs.dev/plugins/

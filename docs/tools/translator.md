@@ -16,4 +16,4 @@ date: 2024-07-03
 
 ## 浏览器翻译插件
 
-<guide-link text="immersive-translate" src="https://github.com/immersive-translate/immersive-translate/" />
+<guide-link text="immersive-translate" src="https://immersivetranslate.com/" />

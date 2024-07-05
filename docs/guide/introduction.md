@@ -1,12 +1,12 @@
 ---
-date: 2024-06-16
+date: 2024-07-05
 ---
 
 # 介绍
 
 ## 这是一份怎样的学习指南？
 
-这是一份使用 [VuePress][VuePress] 构建的前端学习指南，汇集了众多项目文档的链接。您可以通过点击这些链接直接跳转到对应的文档网页。
+这是一份使用 <guide-link text="VuePress" src="https://vuepress.vuejs.org/zh/" /> 构建的前端学习指南，汇集了众多项目文档的链接。您可以通过点击这些链接直接跳转到对应的文档网页。
 
 初衷是为了替代浏览器收藏夹进行更好的文档收集与查看，其实现方式有利于文档的分类、介绍以及分享。
 
@@ -24,11 +24,8 @@ date: 2024-06-16
 
 这两种操作对站内链接的访问尤其适用。
 
-试一试：<RouteLink to="/">点击前往首页</RouteLink>
+试一试：<guide-link text="点击前往首页" src="/" />
 
 ### 侧边栏错误
 
-如果在本地运行时出现切换页面但侧边栏当前活动元素没有正确反应，请注意，这可能是 VuePress 的默认主题的Bug，请尝试更新 VuePress 或参照 [fix(theme-default): fix sidebar selector][侧边栏错误修复] 中的修改进行修复。
-
-[VuePress]: https://vuepress.vuejs.org/zh/
-[侧边栏错误修复]: https://github.com/vuepress/ecosystem/commit/0a29075388cb435e5f95d25dc1b54abbcd343d9a
+如果在本地运行时出现切换页面但侧边栏当前活动元素没有正确反应，请注意，这可能是 VuePress 的默认主题的Bug，请尝试更新 VuePress 或参照 <guide-link text="fix(theme-default): fix sidebar selector" src="https://github.com/vuepress/ecosystem/commit/0a29075388cb435e5f95d25dc1b54abbcd343d9a" /> 中的修改进行修复。

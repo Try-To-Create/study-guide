@@ -6,7 +6,7 @@ date: 2024-06-27
 
 ## npm
 
-[点击前往 npm 官网][npm]
+<guide-link text="点击前往 npm 官网" src="https://www.npmjs.com/" />
 
 ### 简介
 
@@ -16,17 +16,19 @@ npm 是全球最大的软件注册机构。
 
 ### 文档
 
-[npm 文档][npm 文档]
+<guide-link text="npm 文档" src="https://docs.npmjs.com/" />
 
-[npm 入门文档][npm 入门文档]
+<guide-link text="npm 关于文档" src="https://docs.npmjs.com/about-npm" />
 
-[npm 包和模块文档][npm 包和模块文档]
+<guide-link text="npm 入门文档" src="https://docs.npmjs.com/getting-started" />
 
-[npm 集成文档][npm 集成文档]
+<guide-link text="npm 包和模块文档" src="https://docs.npmjs.com/packages-and-modules" />
 
-[npm 组织文档][npm 组织文档]
+<guide-link text="npm 集成文档" src="https://docs.npmjs.com/integrations" />
 
-[npm CLI 文档][npm CLI 文档]
+<guide-link text="npm 组织文档" src="https://docs.npmjs.com/organizations" />
+
+<guide-link text="npm CLI 文档" src="https://docs.npmjs.com/cli/" />
 
 ## pnpm
 
@@ -41,14 +43,6 @@ pnpm 是一个快速、可靠且节省磁盘空间的包管理工具。
 ### 文档
 
 [pnpm 文档][pnpm 文档]
-
-[npm]: https://www.npmjs.com/
-[npm 文档]: https://docs.npmjs.com/
-[npm 入门文档]: https://docs.npmjs.com/getting-started
-[npm 包和模块文档]: https://docs.npmjs.com/packages-and-modules
-[npm 集成文档]: https://docs.npmjs.com/integrations
-[npm 组织文档]: https://docs.npmjs.com/organizations
-[npm CLI 文档]: https://docs.npmjs.com/cli/
 
 [pnpm]: https://pnpm.io/zh/
 [pnpm 文档]: https://pnpm.io/zh/motivation
