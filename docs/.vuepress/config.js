@@ -29,7 +29,8 @@ export default defineUserConfig({
                 prefix: '/tools/',
                 children: [
                     'translator',
-                    'icons'
+                    'icons',
+                    'resume'
                 ]
             },
             {
@@ -84,6 +85,10 @@ export default defineUserConfig({
                 {
                     text: '图标工具',
                     link: 'icons'
+                },
+                {
+                    text: '简历工具',
+                    link: 'resume'
                 }
             ]
         }

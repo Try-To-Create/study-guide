@@ -1,12 +1,12 @@
 ---
-date: 2024-07-03
+date: 2024-07-06
 ---
 
 # 图标工具
 
 ## 在线图标库
 
-<guide-link text="Iconfont-阿里巴巴矢量图标库" src="https://www.iconfont.cn/" />
+<guide-link text="Iconfont - 阿里巴巴矢量图标库" src="https://www.iconfont.cn/" />
 
 <guide-link text="Font Awesome" src="https://fontawesome.com/" />
 
@@ -24,4 +24,4 @@ date: 2024-07-03
 
 <guide-link text="Favicon Generator. For real." src="https://realfavicongenerator.net/" />
 
-<guide-link text="在线生成透明ICO图标" src="https://www.ico51.cn/" />
+<guide-link text="在线生成透明 ICO 图标" src="https://www.ico51.cn/" />

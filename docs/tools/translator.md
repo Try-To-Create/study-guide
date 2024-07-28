@@ -1,5 +1,5 @@
 ---
-date: 2024-07-03
+date: 2024-07-28
 ---
 
 # 翻译器
@@ -14,6 +14,8 @@ date: 2024-07-03
 
 <guide-link text="腾讯翻译君" src="https://fanyi.qq.com/" />
 
+<guide-link text="腾讯交互翻译 TranSmart" src="https://transmart.qq.com/" />
+
 ## 浏览器翻译插件
 
-<guide-link text="immersive-translate" src="https://immersivetranslate.com/" />
+<guide-link text="immersive - translate" src="https://immersivetranslate.com/" />

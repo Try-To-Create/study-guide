@@ -1,10 +1,10 @@
 ---
-date: 2024-06-17
+date: 2024-07-28
 ---
 
 # TypeScript
 
-[点击前往 TypeScript 官网][TypeScript]
+<guide-link text="点击前往 TypeScript 官网" src="https://www.typescriptlang.org/zh/" />
 
 ## 简介
 
@@ -14,16 +14,8 @@ TypeScript 通过在 JavaScript 的基础上增加类型系统，使得在大型
 
 ## 文档
 
-[TypeScript 为 JavaScript 程序员准备的快速手册][TypeScript 为 JavaScript 程序员准备的快速手册]
+<guide-link text="TypeScript 为 JavaScript 程序员准备的快速手册" src="https://www.typescriptlang.org/zh/docs/handbook/typescript-in-5-minutes.html" />
 
-[TypeScript 快速手册][TypeScript 快速手册]
+<guide-link text="TypeScript 快速手册" src="https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html" />
 
-[TypeScript 手册][TypeScript 手册]
-
-[TypeScript]: https://www.typescriptlang.org/zh/
-
-[TypeScript 为 JavaScript 程序员准备的快速手册]: https://www.typescriptlang.org/zh/docs/handbook/typescript-in-5-minutes.html
-
-[TypeScript 快速手册]: https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html
-
-[TypeScript 手册]: https://www.typescriptlang.org/docs/handbook/intro.html
+<guide-link text="TypeScript 手册" src="https://www.typescriptlang.org/docs/handbook/intro.html" />
