@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="generator" content="VuePress 2.0.0-rc.14" />
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+
+      html.dark {
+        --c-bg: #22272e;
+      }
+
+      html,
+      body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme')
+      const systemDarkMode =
+        window.matchMedia &&
+        window.matchMedia('(prefers-color-scheme: dark)').matches
+      if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+        document.documentElement.classList.toggle('dark', true)
+      }
+    </script>
+    <link rel="icon" href="/guide.svg"><title>学习指南</title><meta name="description" content="一份 VuePress 构建的前端学习指南">
+    <link rel="preload" href="/assets/style-BGctM2Bm.css" as="style"><link rel="stylesheet" href="/assets/style-BGctM2Bm.css">
+    <link rel="modulepreload" href="/assets/app-QbKceq2A.js"><link rel="modulepreload" href="/assets/404.html-CkYPjjVl.js">
+    <link rel="prefetch" href="/assets/index.html-C75jftxQ.js" as="script"><link rel="prefetch" href="/assets/bundler.html-Dp6l5pXI.js" as="script"><link rel="prefetch" href="/assets/introduction.html-BI1akghF.js" as="script"><link rel="prefetch" href="/assets/markdown.html-8rBttDYC.js" as="script"><link rel="prefetch" href="/assets/networkRequestLibrary.html-DKhnMtJU.js" as="script"><link rel="prefetch" href="/assets/packageManager.html-CoH_PzUu.js" as="script"><link rel="prefetch" href="/assets/SSG.html-CsGn9D39.js" as="script"><link rel="prefetch" href="/assets/typeScript.html-D7M6um_0.js" as="script"><link rel="prefetch" href="/assets/vue.html-Bhhxc5gs.js" as="script"><link rel="prefetch" href="/assets/icons.html-BzNp6P3R.js" as="script"><link rel="prefetch" href="/assets/resume.html-CgHqGvyy.js" as="script"><link rel="prefetch" href="/assets/translator.html-Be7SshyV.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a class="route-link" href="/">Take me home</a></div></main></div><!--[--><!----><!--]--><!--]--></div>
+    <script type="module" src="/assets/app-QbKceq2A.js" defer></script>
+  </body>
+</html>
